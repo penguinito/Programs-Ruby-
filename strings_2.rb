@@ -1,4 +1,8 @@
-puts 'You\re swell!'
-puts 'backslash at the end of a string: \\'
-puts 'up\\down'
-puts 'up\down'
+puts "They said, \"Yes!\""
+puts "up\\down"
+puts "backslash at the end of a string: \\"
+puts "Dip!"
+puts "D\i\p\!"
+
+puts "Duck...\nDuck..."
+puts "\tGoose! (or grey duck for some of you)"
